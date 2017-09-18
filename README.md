@@ -3,7 +3,7 @@ A short autosplitter for the Waveland demo (https://rologfos.com/demo)
 
 Splits (each one can be toggled):
 - Enter 1-1
-- Enter any level except 1-1
+- Enter any level except 1-1 (default off)
 - Finish a level
 - Enter final cutscene
 
